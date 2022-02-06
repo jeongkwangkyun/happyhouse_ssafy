@@ -22,7 +22,7 @@ Spring Framework와 Vue를 이용하여 부동산과 관련된 다양한 웹, �
   <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/Database-MySql-F80000?style=flat&logo=oracle&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/Framework-Vue-D22128?style=flat&logo=apahce&logoColor=white">&nbsp 
-  <img src="https://img.shields.io/badge/Framework-SpringFramework-6DB33F?style=flat&logo=spring&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/Framework-SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white">&nbsp 
 
 </p>
 
@@ -103,8 +103,14 @@ Spring Framework와 Vue를 이용하여 부동산과 관련된 다양한 웹, �
 
 ![산책길](https://user-images.githubusercontent.com/59038419/150631073-11572d27-01ca-4ada-bfc6-1f7f3ebaab11.PNG)
 
+**Pic 9** 📷 : 게시판과 댓글 기능
+
+![게시판](https://user-images.githubusercontent.com/59038419/152670861-ae34cab3-1b2a-46dd-b4e5-6dc0b6ed77ce.PNG)
+![게시판_글_댓글](https://user-images.githubusercontent.com/59038419/152670870-eeca4117-dab9-4c37-bf09-45e67c7e8b02.PNG)
+
+
 ## 🔗 HappyHouse 깃허브 주소
 
-👉🏻 [HappyHouse github](https://github.com/jeongkwangkyun/happyhouse)
+👉🏻 [HappyHouse github](https://github.com/jeongkwangkyun/happyhouse_ssafy)
 
 
